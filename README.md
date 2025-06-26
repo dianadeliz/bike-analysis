@@ -4,4 +4,8 @@ The analysis was conducted using R, with data visualizations created in both R a
 
 
 <img width="1432" alt="Screenshot 2025-06-25 at 5 26 34 PM" src="https://github.com/user-attachments/assets/86160163-1dcc-4920-a68a-d20ab112b6d8" />
-<img width="1432" alt="Screenshot 2025-06-25 at 5 26 34 PM" src="https://github.com/user-attachments/assets/86160163-1dcc-4920-a68a-d20ab112b6d8" />
+<br>
+<br>
+
+![Figure_1](https://github.com/user-attachments/assets/4cd09d82-522f-4d0a-a0c9-716b459857d1)
+
