@@ -1,5 +1,5 @@
 This project explores bike-share usage patterns between member and casual users by analyzing Divvy trip data from 2019 Q1 to 2020 Q1. <br>
-The analysis was conducted using R, with data visualizations created in both R and Tableau. 
+The analysis was conducted using R, with data visualizations created in using Python and Tableau. 
 <br>Key insights focus on ride duration, usage distribution by day of week, and weekend preferences.
 
 
